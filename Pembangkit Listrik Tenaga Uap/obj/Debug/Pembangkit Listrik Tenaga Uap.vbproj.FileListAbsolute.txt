@@ -1,0 +1,17 @@
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\bin\Debug\Pembangkit Listrik Tenaga Uap.exe.config
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\bin\Debug\Pembangkit Listrik Tenaga Uap.exe
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\bin\Debug\Pembangkit Listrik Tenaga Uap.pdb
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\bin\Debug\Pembangkit Listrik Tenaga Uap.xml
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit Listrik Tenaga Uap.vbprojAssemblyReference.cache
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit_Listrik_Tenaga_Uap.frmHome.resources
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit_Listrik_Tenaga_Uap.Resources.resources
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit Listrik Tenaga Uap.vbproj.GenerateResource.cache
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit Listrik Tenaga Uap.vbproj.CoreCompileInputs.cache
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit Listrik Tenaga Uap.exe
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit Listrik Tenaga Uap.xml
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit Listrik Tenaga Uap.pdb
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit_Listrik_Tenaga_Uap.frmSimulasi.resources
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\bin\Debug\Pembangkit Listrik Tenaga Uap.exe.manifest
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\bin\Debug\Pembangkit Listrik Tenaga Uap.application
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit Listrik Tenaga Uap.exe.manifest
+E:\kuliah\semester 6\Simulasi & Pemodelan\Tugas\Besar\Pembangkit Listrik Tenaga Uap\Pembangkit Listrik Tenaga Uap\obj\Debug\Pembangkit Listrik Tenaga Uap.application
